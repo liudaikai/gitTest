@@ -1,5 +1,3 @@
 diff
 edit
-second edit
-Three edit
-four edit
+1 diff
